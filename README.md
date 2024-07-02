@@ -1,6 +1,6 @@
 # My First Revit Plugin Project for Beginners
 
-Welcome to my first Revit plugin project! This repository provides sample codes and documentation to help beginners create efficient plugins for Autodesk Revit 2024 and earlier versions. Access industry-standard APIs and best practices to kickstart your journey in Revit plugin development.
+Welcome to your essential guide to starting Revit plugin development from scratch! This repository offers comprehensive sample code and documentation tailored for beginners, enabling you to efficiently create plugins for Autodesk Revit 2024 and earlier versions. Dive into industry-standard APIs and best practices to kickstart your journey in Revit plugin development.
 
 ## Overview
 
